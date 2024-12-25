@@ -8,7 +8,7 @@ README.md Overview:
    - Munha Shahzad
    - Fatima Ahmad
 3. Short Project Description:
-   A maze game built using SFML where players navigate through challenging mazes, collect items, avoid traps, and beat timers to progress through levels. The main goal is to excape from the maze.
+   A maze game built using SFML where players navigate through challenging mazes, collect items, avoid traps, and beat timers to progress through levels.  The main goal is to excape from the maze.
 4. Features:
    - Randomly generated mazes.
    - Timer and traps for added difficulty.
