@@ -26,6 +26,34 @@ README.md Overview:
 Clone the Repository
 Open a terminal or command prompt.
 Run the following command to clone the repository to your local machine:
+git clone [[https://github.com/maryam884/focp-.git]
+
+Install SFML Library
+What is SFML?
+SFML (Simple and Fast Multimedia Library) is a library used for graphics, audio, and input handling in C++ projects. It is required to run the game.
+Steps to Install SFML:
+a. Go to SFML's official website.
+b. Download the version of SFML that matches your operating system and compiler (e.g., Windows, macOS, Linux).
+c. Follow the platform-specific installation instructions provided on the SFML website:
+On Windows: Install SFML by extracting the files and linking them to your compiler (e.g., Visual Studio, MinGW).
+On macOS/Linux: Use package managers like brew, apt-get, or yum to install SFML.
+Set Up Your Compiler
+Make sure you have a C++ compiler installed (e.g., GCC, MinGW, or Visual Studio).
+Configure your compiler to link SFML libraries properly:
+Link SFML modules such as sfml-graphics, sfml-window, and sfml-audio.
+Add SFML include paths to your compiler settings.
+Compile the Project
+Navigate to the directory where you cloned the repository.
+Use your compiler to compile the source code:
+If you're using a terminal, run:
+g++ -o MazeGame main.cpp -lsfml-graphics -lsfml-window -lsfml-audio
+
+If you're using an IDE like Visual Studio or Code::Blocks, create a new project, add the source files, and configure SFML as a linked library.
+Run the Game
+After compilation, an executable file (e.g., MazeGame.exe on Windows) will be generated in the project directory.
+Double-click the executable file, or run it from the terminal using:
+./MazeGame
+Deploy the Game
         
 
 
