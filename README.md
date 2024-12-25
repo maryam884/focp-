@@ -55,6 +55,16 @@ Double-click the executable file, or run it from the terminal using:
 ./MazeGame
 Deploy the Game
         
+For Sharing with Others:
+Share the executable file along with the necessary SFML dynamic libraries (DLLs on Windows).
+Include all resource files (e.g., images, sounds) in the same directory as the executable.
+For Cross-Platform Sharing:
+Provide instructions for installing SFML and compiling the project on other platforms.
+Include the source code and resource files in your GitHub repository.
+Troubleshooting Tips
+If the game doesn't compile, check for missing SFML libraries or incorrect paths in your compiler settings.
+If SFML is not recognized, ensure the correct version is installed and linked.
+Verify the game resources (images, sounds) are in the right location relative to the executable.
 
 
 [README-2.md](https://github.com/user-attachments/files/18245733/README-2.md)
