@@ -19,7 +19,7 @@ README.md Overview:
    - Third-Party Libraries: SFML for graphics, input, and audio.
 6. How to Run and Deploy:
    - Clone the repository:
-     `git clone [repository-link]`
+     `git clone [https://github.com/maryam884/focp-.git]`
    - Install SFML: Follow the instructions on [SFML's website](https://www.sfml-dev.org).
    - Compile the project using a C++ compiler with SFML configured.
    - Run the executable file to start the game.
