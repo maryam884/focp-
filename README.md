@@ -66,7 +66,10 @@ Troubleshooting Tips
 If the game doesn't compile, check for missing SFML libraries or incorrect paths in your compiler settings.
 If SFML is not recognized, ensure the correct version is installed and linked.
 Verify the game resources (images, sounds) are in the right location relative to the executable.
-[Uploading README-2.md…]()#include <SFML/Graphics.hpp>
+
+
+
+[README-2-2.md](https://github.com/user-attachments/files/18254876/README-2-2.md)#include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
 #include <iostream>
 #include <vector>
@@ -497,10 +500,10 @@ int main() {
 
 
 
-[Uploading README-2.md…]()
+
+
+    
 
 
 
-
-
-
+   
